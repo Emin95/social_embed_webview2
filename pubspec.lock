@@ -74,10 +74,10 @@ packages:
     dependency: "direct dev"
     description:
       name: flutter_lints
-      sha256: aeb0b80a8b3709709c9cc496cdc027c5b3216796bc0af0ce1007eaf24464fd4c
+      sha256: a25a15ebbdfc33ab1cd26c63a6ee519df92338a9c10f122adda92938253bef04
       url: "https://pub.dev"
     source: hosted
-    version: "2.0.1"
+    version: "2.0.3"
   flutter_test:
     dependency: "direct dev"
     description: flutter
@@ -92,10 +92,10 @@ packages:
     dependency: "direct main"
     description:
       name: http
-      sha256: "5895291c13fa8a3bd82e76d5627f69e0d85ca6a30dcac95c4ea19a5d555879c2"
+      sha256: "759d1a329847dd0f39226c688d3e06a6b8679668e350e2891a6474f8b4bb8525"
       url: "https://pub.dev"
     source: hosted
-    version: "0.13.6"
+    version: "1.1.0"
   http_parser:
     dependency: transitive
     description:
@@ -124,10 +124,10 @@ packages:
     dependency: "direct main"
     description:
       name: localstorage
-      sha256: "1b5304491c85250b90807e0e2b3a6217d2739caea4871b820d42782572f880f4"
+      sha256: fdff4f717114e992acfd4045dc4a9ab9b987ca57f020965d63e3eb34089c60d8
       url: "https://pub.dev"
     source: hosted
-    version: "4.0.1+2"
+    version: "4.0.1+4"
   matcher:
     dependency: transitive
     description:
@@ -297,10 +297,10 @@ packages:
     dependency: "direct main"
     description:
       name: url_launcher
-      sha256: eb1e00ab44303d50dd487aab67ebc575456c146c6af44422f9c13889984c00f3
+      sha256: "47e208a6711459d813ba18af120d9663c20bdf6985d6ad39fe165d2538378d27"
       url: "https://pub.dev"
     source: hosted
-    version: "6.1.11"
+    version: "6.1.14"
   url_launcher_android:
     dependency: transitive
     description:
@@ -369,10 +369,10 @@ packages:
     dependency: "direct main"
     description:
       name: webview_flutter
-      sha256: "5604dac1178680a34fbe4a08c7b69ec42cca6601dc300009ec9ff69bef284cc2"
+      sha256: "82f6787d5df55907aa01e49bd9644f4ed1cc82af7a8257dd9947815959d2e755"
       url: "https://pub.dev"
     source: hosted
-    version: "4.2.1"
+    version: "4.2.4"
   webview_flutter_android:
     dependency: transitive
     description:
@@ -415,4 +415,4 @@ packages:
     version: "1.0.0"
 sdks:
   dart: ">=3.0.3 <4.0.0"
-  flutter: ">=3.3.0"
+  flutter: ">=3.10.0"

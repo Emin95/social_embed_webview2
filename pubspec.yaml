@@ -13,17 +13,19 @@ dependencies:
     sdk: flutter
   
   # webview_flutter: ^2.0.4
-  webview_flutter: ^4.0.0
+  # webview_flutter: ^4.0.0
+  webview_flutter: ^4.2.4
 
   # url_launcher: ^6.0.3
-  url_launcher: ^6.1.11
+  # url_launcher: ^6.1.11
+  url_launcher: ^6.1.14
 
   # localstorage: ^4.0.0+1
-  localstorage: ^4.0.1+2
+  # localstorage: ^4.0.1+2
+  localstorage: ^4.0.1+4
   
-  http: ^0.13.2
-  # http: ^1.0.0
-  # http ^0.13.6
+  http: ^1.1.0
+  # http: ^0.13.2
 
 
   # The following adds the Cupertino Icons font to your application.
@@ -34,5 +36,6 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
   
-  flutter_lints: ^2.0.1
+  flutter_lints: ^2.0.3
+  # flutter_lints: ^2.0.1
 
